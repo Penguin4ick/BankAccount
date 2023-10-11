@@ -1,0 +1,14 @@
+D:\ucheba\bank\Bank\Bank\bin\Debug\net6.0\Bank.exe
+D:\ucheba\bank\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+D:\ucheba\bank\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+D:\ucheba\bank\Bank\Bank\bin\Debug\net6.0\Bank.dll
+D:\ucheba\bank\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.dll
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+D:\ucheba\bank\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
